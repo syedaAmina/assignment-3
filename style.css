@@ -1,3 +1,6 @@
+.myimage{
+    filter: brightness(50%);
+}
 .carousel-caption h5{
 	font-size: 5.25rem !important;
 }
@@ -7,6 +10,7 @@
 }
 
 .carousel-caption {
+
     bottom: 10.25rem;
 }
 
