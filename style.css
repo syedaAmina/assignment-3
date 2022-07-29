@@ -35,4 +35,10 @@
 
 .faq{padding: 50px;}
 
+  .rounded{
+    width:100px;
+    margin: 10px;
+
+  }
+
 .footer-bg{background: black;color: white;padding: 20px;}
